@@ -9,6 +9,8 @@
 - [projeto do curso de POO](https://github.com/alyson6918/DIOCursoPOO)
 ## Construtores, propriedades, Delegates e Eventos em .NET
 - [Projeto](https://github.com/alyson6918/Construtores_Propriedades_Delegates_Eventos_DotNet)
+## Fundamentos em collections e LINQ em c#:
+[Projeto do curso](https://github.com/alyson6918/DIO_Fundamentos_de_colections_e_LINQ_com_DotNet)
 ---
 [Voltar ao README](https://github.com/alyson6918/DIO-desafio-github-primeiro-repositorio/blob/main/README.md)
 
